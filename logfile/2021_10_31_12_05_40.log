@@ -1,0 +1,2 @@
+2021-10-31 12:05:40,973 - address_book_api.py - [line:23] - INFO - url->https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=ww386957bad20fab64&corpsecret=HFdmbCRUBmO_FXjj4hpqe4kq_PIa3EzW7R_cyb-l5q8
+2021-10-31 12:05:41,785 - address_book_api.py - [line:28] - INFO - content->{'errcode': 0, 'errmsg': 'ok', 'access_token': 'kFxYMTlfScP7Bbu0h9NFKwoiQ_mXtxet9WJ-utlZGkzGK4DI5UP1MMTEyRAvKpQa5ZhW5BijeJolNrRIzu7Y0oJq9shFcqLKuCHBSOk_RuNmbGQlDX0qS-gT7sTOuDHzKnwejO_VMoE4rNq4v-cJfr7gDUSRgW4KauYFOcSfbrX4AshYwSk_n6nHYsgRSJ9547s3McgopuDealMzKFcsaw', 'expires_in': 7200}

@@ -1,0 +1,4 @@
+2021-10-31 15:47:14,567 - address_book_api.py - [line:23] - INFO - url->https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=ww386957bad20fab64&corpsecret=HFdmbCRUBmO_FXjj4hpqe4kq_PIa3EzW7R_cyb-l5q8
+2021-10-31 15:47:15,614 - address_book_api.py - [line:28] - INFO - content->{'errcode': 0, 'errmsg': 'ok', 'access_token': 'P250yPV2IFVT0cQR-Z0eKLsKxBxVaVGuIB5awym4OMLmiqZhs4mbXhbbyBFanzgbb-GKKvk1BFTkU0DRvdpvGiGtnsxNfeNmz2EVDnVxTiZmOahTavcDVJ0iKzvsiGrG5NlCHpLFGfhx2Q29B7WY8j3_AaNghwYz8V6AG_UCj0lP4bygRzf7EHplauS-FUfWlfcyr9cIlUYM-yGGgJqX3A', 'expires_in': 7200}
+2021-10-31 15:47:15,620 - address_book_api.py - [line:64] - INFO - 传入的参数值为data->{'userid': 'xungeng_test01', 'name': '勋更测试01', 'mobile': '13998883333', 'email': 'xungeng01@163.com', 'department': [1]}
+2021-10-31 15:47:16,348 - address_book_api.py - [line:70] - INFO - content->{'errcode': 0, 'errmsg': 'created'}

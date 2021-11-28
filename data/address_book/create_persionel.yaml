@@ -1,0 +1,16 @@
+common:
+  - corpid: 'ww386957bad20fab64'
+    corpsecret: 'HFdmbCRUBmO_FXjj4hpqe4kq_PIa3EzW7R_cyb-l5q8'
+
+test_case01:
+  - userid: xungeng_test01
+    name: 勋更测试01
+    mobile: "13998883333"
+    email: "xungeng01@163.com"
+    department: [1]
+
+  - userid: xungeng_test02
+    name: 勋更测试02
+    mobile: "13998883332"
+    email: "xungeng02@163.com"
+    department: [1]

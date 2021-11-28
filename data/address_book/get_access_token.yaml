@@ -1,0 +1,7 @@
+test_case01:
+  - corpid: 'ww386957bad20fab64'
+    corpsecret: 'HFdmbCRUBmO_FXjj4hpqe4kq_PIa3EzW7R_cyb-l5q8'
+
+test_case02:
+  - corpsecret: 'HFdmbCRUBmO_FXjj4hpqe4kq_PIa3EzW7R_cyb-l5q8'
+    corpid_flag: 0
